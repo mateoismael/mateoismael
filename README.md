@@ -1,17 +1,9 @@
-### Hola, soy Mateo 👋
+### Mateo Rodríguez
 
-Construyo cosas con IA desde Lima: software, hardware y videos. Me gusta ver una idea
-funcionando, así que casi todo lo que hago termina corriendo en producción, en una placa
-o en YouTube.
+Desarrollo software y hardware, casi siempre con IA de por medio.
 
-**Proyectos**
+- **[leo](https://github.com/mateoismael/leo)**: asistente de voz en ESP32. Whisper → LLM → TTS.
+- **[palitos](https://github.com/mateoismael/palitos)**: motor de animación 2D sobre Manim.
+- **[snake](https://github.com/mateoismael/snake)**: Snake en JavaScript sin librerías. [Jugar](https://mateoismael.github.io/snake/).
 
-- **[palitos](https://github.com/mateoismael/palitos)**: el motor de animación de palitos
-  (Manim) con el que produzco los videos de historia de [De Palito a Rey](https://www.youtube.com/@depalitoarey).
-- **[leo](https://github.com/mateoismael/leo)**: asistente de voz para la muñeca con ESP32.
-  Whisper transcribe, un LLM responde y el TTS contesta con voz.
-- **[snake](https://github.com/mateoismael/snake)**: mi primer juego, un Snake con estética CRT.
-  [Jugar](https://mateoismael.github.io/snake/).
-
-**Con qué trabajo:** Python · JavaScript/TypeScript · Node · Manim · ESP32/Arduino ·
-Whisper · APIs de LLM · Docker
+Python · JavaScript/TypeScript · Node · ESP32/Arduino · Docker
